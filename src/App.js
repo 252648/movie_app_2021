@@ -20,7 +20,7 @@ class App extends React.Component {
             data : {
                 data : {movies}
             }
-        } = await axios.get("https://yts-proxy.nomadcoders1.now.sh/list_movies.json?sort_by=rating");
+        } = await axios.get("");
         this.setState({ movies, isLoading : false })
     };
     componentDidMount(){
