@@ -1,0 +1,2 @@
+(this.webpackJsonpmovie_app_2021=this.webpackJsonpmovie_app_2021||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(0),s=n.n(c),p=n(3),r=n.n(p),a=n(1);var i=function(){return Object(a.jsx)("div",{className:"App"})};r.a.render(Object(a.jsx)(s.a.StrictMode,{children:Object(a.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.a8e86920.chunk.js.map
